@@ -48,4 +48,4 @@ python printPlannerA4.py Linien.pdf
 python printPlannerA4_2p.py karro.pdf
 
 
-[example](karro.pdf)
+[example](karro_p2.pdf)
