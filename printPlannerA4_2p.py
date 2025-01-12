@@ -127,6 +127,7 @@ print("Page dst: " ,dst.page_count)
 print("!!! print {} both side with flip short side  !!!".format(OUT))
 dst.save(OUT, garbage=4, deflate=False)
 
+src.close()
 fdst.close()
 bdst.close()
 dst.close()
